@@ -51,7 +51,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
       
 <br/>
 
-- [Visite o projeto online](https://www.figma.com/file/5bxl7Jtfe0QBRvHZmihsEZ/Jogo-Adivinha%C3%A7%C3%A3o-(Copy)?type=design&mode=design)
+- [Visite o projeto online](https://iaraMarques.github.io/Jogo-Da-Adivinhacao)
 
 <br/>
 
